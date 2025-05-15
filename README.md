@@ -16,14 +16,42 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" alt="Power BI" /> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </a>
-  <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </a>
-  <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> </a>
-  <a href="https://matplotlib.org/" target="_blank"> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Seaborn-2E1E3D?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" /> </a>
-  <a href="https://excel.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" /> </a>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+  <span style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_logo.svg" alt="Power BI" width="30" height="30" />
+    Power BI
+  </span>
+  <span style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="30" height="30" />
+    SQL Server
+  </span>
+  <span style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" />
+    Python
+  </span>
+  <span style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="30" height="30" />
+    Jupyter
+  </span>
+  <span style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="30" height="30" />
+    Pandas
+  </span>
+  <span style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="30" height="30" />
+    NumPy
+  </span>
+  <span style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="30" height="30" />
+    Matplotlib
+  </span>
+  <span style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Seaborn_logo.svg/1200px-Seaborn_logo.svg.png" alt="Seaborn" width="30" height="30" />
+    Seaborn
+  </span>
+  <span style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" alt="Excel" width="30" height="30" />
+    Excel
+  </span>
 </p>
+
